@@ -1,0 +1,7 @@
+Buyer Name: Earl Baldoza
+Item Name: Gel Pen
+Quantity: 3
+Price Per Item: ₱25.5
+Student Discount Applied: true
+Total Cost: ₱76.5
+Exceeds ₱100 Budget: false
